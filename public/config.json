@@ -12,8 +12,8 @@
     {
         "en-US":
         {
-            "name": "<NAME_OF_APP>",
-            "description": "<DESC_OF_APP>",
+            "name": "NGS Zalo Message",
+            "description": "NGS Package",
             "step1Label": "Configure Activity"
         }
     },
