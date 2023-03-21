@@ -2,9 +2,9 @@
     "workflowApiVersion": "1.1",
     "metaData":
     {
-        "icon": "images/icon.png",
-        "iconSmall": "images/iconSmall.png",
-        "category": "<CATEGORY_OF_APP_BASED_ON_DOCS>"
+        "icon": "images/zalo.png",
+        "iconSmall": "images/zalo.png",
+        "category": "NGS Zalo Message"
     },
 
     "type": "REST",
